@@ -12,5 +12,5 @@ I'm a software Engineering focused data engineer at [Datatonic](https://datatoni
 
 ### Usful Repos
 Trying to get certified? You might find these repos helpful...
-- [Terraform Certified Associate Study Guide](https://github.com/kolasniwash/tensorflow-certification-study-guide)
+- [Terraform Certified Associate Study Guide](https://github.com/kolasniwash/terraform-associate-certification-study-guide)
 - [Tensorflow Certification Study Guide](https://github.com/kolasniwash/tensorflow-certification-study-guide)
