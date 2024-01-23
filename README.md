@@ -6,7 +6,7 @@ I'm a software Engineering focused data engineer. I have a background in physics
 
 - 🧑🏼‍🎓 Currently [learning Rust](https://github.com/kolasniwash/advent-of-code/tree/main/rust/aoc2015)
 
-### Usful Repos
+### Useful Repos
 Trying to get certified? You might find these repos helpful...
-- [Terraform Certified Associate Study Guide](https://github.com/kolasniwash/terraform-associate-certification-study-guide)
 - [Tensorflow Certification Study Guide](https://github.com/kolasniwash/tensorflow-certification-study-guide)
+- [Terraform Certified Associate Study Guide](https://github.com/kolasniwash/terraform-associate-certification-study-guide)
