@@ -4,6 +4,7 @@
 ### About Me
 I'm a software Engineering focused data engineer. I have a background in physics, machine learning, and analytics. I like solving problems.
 
+- 📊 Run a small site on [Curling stats](https://www.curlstats.com/)
 - 🧑🏼‍🎓 Currently [learning Rust](https://github.com/kolasniwash/advent-of-code/tree/main/rust/aoc2015)
 
 ### Useful Repos
